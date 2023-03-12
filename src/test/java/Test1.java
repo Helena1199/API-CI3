@@ -20,7 +20,7 @@ public class Test1 {
 // Проверки
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("11.11.24"))
+                .body("data", equalTo("11.11.23"))
         ;
     }
 }

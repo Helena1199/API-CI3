@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test1" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-12T17:47:58" hostname="ALENA-PC" time="48.818">
+  <properties/>
+  <testcase name="shouldReturnBody()" classname="Test1" time="48.818"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
